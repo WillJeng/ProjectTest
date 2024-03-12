@@ -1,36 +1,4 @@
 ﻿
-<<<<<<< HEAD
-//int x = 30;
-//int y = 20;
-//Console.WriteLine(x > y);
-
-//string result = (x > y) ? "x大" : "y大";
-//Console.WriteLine(result);
-=======
-int x = 30;
-int y = 20;
-Console.WriteLine(x > y);
->>>>>>> 854baf794da259bb0b97dd621435f6ca643531cb
-
-//int day = 1;
-//switch (day)
-//{
-//    case 1:
-//        Console.WriteLine("Monday");
-//        break;
-//    case 2:
-//        Console.WriteLine("Tuesday");
-//        break;
-//    case 3:
-//        Console.WriteLine("Wednesday");
-//        break;
-//    case 4:
-//        Console.WriteLine("Thursdfay");
-//        break;
-//    case 5:
-//        Console.WriteLine("Friday");
-//        break;
-//}
 
 class Car
 {
