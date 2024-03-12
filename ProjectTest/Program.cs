@@ -25,7 +25,7 @@ class Dog
     public string voide;
     public Dog() 
     {
-        voide = "汪汪汪";
+        voide = "飛飛飛";
     }
 
     public void Car()
