@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 int x = 30;
 int y = 20;
 Console.WriteLine(x > y);
@@ -38,8 +37,28 @@ class Car
 
     public static void Main(string[] args)
     { 
-         Car Ford = new Car();
+        Car Ford = new Car();
         Console.WriteLine(Ford.model);
+        
+        Dog dog = new Dog();
+        dog.Car();
     }
 }
+
+
+class Dog
+{ 
+    public string voide;
+    public Dog() 
+    {
+        voide = "汪汪汪";
+    }
+
+    public void Car()
+    {
+        Dog dog = new Dog();
+        Console.WriteLine(dog.voide);
+    }
+}
+
 
