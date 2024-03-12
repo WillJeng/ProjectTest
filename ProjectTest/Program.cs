@@ -1,10 +1,16 @@
 ﻿
+<<<<<<< HEAD
 //int x = 30;
 //int y = 20;
 //Console.WriteLine(x > y);
 
 //string result = (x > y) ? "x大" : "y大";
 //Console.WriteLine(result);
+=======
+int x = 30;
+int y = 20;
+Console.WriteLine(x > y);
+>>>>>>> 854baf794da259bb0b97dd621435f6ca643531cb
 
 //int day = 1;
 //switch (day)
