@@ -29,6 +29,10 @@ class Dog
         voide = "隆隆隆";
         voide = "隆隆隆";
         voide = "隆隆隆";
+        voide = "隆隆隆";
+        voide = "隆隆隆";
+        voide = "隆隆隆";
+        voide = "隆隆隆";
     }
 
     public void Car()
